@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    padding-left:20px;
+    padding-right:20px;
+    position: fixed;
+   justify-content: space-between;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    color: rgb(77, 71, 71);
+  border-radius: 0 0 0.5rem 0.5rem ;
+  border-color: #0c060e;
+   border-style:double;
+  background-color: #0c060e;
+  background-image: linear-gradient(
+    to right,
+    #3d3b3b 0%,
+    #9b8f95 51%,
+    #292625 100%
+  );
+
+  }
